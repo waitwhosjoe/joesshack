@@ -72,7 +72,7 @@ ________________________________________________________________________________
 
 # Idle Games
 
-- [Cookie Clicker](https://3kh0.github.io/cookie-clicker/n)
+- [Cookie Clicker](https://3kh0.github.io/cookie-clicker/)
 - [Cookie Clicker Auto Clicker](https://jstrieb.github.io/posts/auto-cookie/)
 - [DogeMiner](https://3kh0.github.io/DogeMiner/)
 - [Idle Breakout](https://3kh0.github.io/idle-breakout/)
@@ -155,7 +155,7 @@ ________________________________________________________________________________
 - [Chrome Dinosaur Game](https://wayou.github.io/t-rex-runner/)
 - [Classic Minesweeper](https://3kh0.github.io/minesweeper/)
 - [Connect 4](https://3kh0.github.io/c4/)
-- [Cookie Clicker](https://3kh0.github.io/cookie-clicker/n)
+- [Cookie Clicker](https://3kh0.github.io/cookie-clicker/)
 - [Cookie Clicker Auto Clicker](https://jstrieb.github.io/posts/auto-cookie/)
 - [Cube Ninja](https://3kh0.github.io/ninja/)
 - [Diep.io](https://turbowarp.org/131270192/fullscreen)
