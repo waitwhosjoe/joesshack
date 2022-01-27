@@ -39,7 +39,6 @@ ________________________________________________________________________________
 
 - [Bloons TD](https://turbowarp.org/318213127/fullscreen)
 - [FNAF World](https://turbowarp.org/97900819/fullscreen)
-- [Full Screen Mario](https://centoshelp.org/mario/)
 - [Missiles](https://3kh0.github.io/missiles/)
 - [Paper Minecraft](https://turbowarp.org/538397770/fullscreen)
 - [Retro Bowl](https://3kh0.github.io/retro-bowl/)
@@ -85,7 +84,6 @@ ________________________________________________________________________________
 - [Among Us](https://turbowarp.org/523967150/fullscreen)
 - [Connect 4](https://3kh0.github.io/c4/)
 - [Diep.io](https://turbowarp.org/131270192/fullscreen)
-- [Full Screen Mario](https://centoshelp.org/mario/)
 - [Minecraft Classic](https://3kh0.github.io/minecraft-classic/)
 - [Slither.io](https://turbowarp.org/544213416/fullscreen)
 - [Tic Tac Toe](https://3kh0.github.io/tic-tac-toe/)
@@ -94,7 +92,6 @@ ________________________________________________________________________________
 # Platformer Games
 
 - [Chrome Dinosaur Game](https://wayou.github.io/t-rex-runner/)
-- [Full Screen Mario](https://centoshelp.org/mario/)
 - [Geometry Dash Levels 1-3](https://turbowarp.org/142106986/fullscreen)
 - [Geometry Dash Levels 4-6](https://turbowarp.org/118638917/fullscreen)
 - [Geometry Dash Levels 7-8](https://turbowarp.org/120721851/fullscreen)
@@ -168,7 +165,6 @@ ________________________________________________________________________________
 - [FNAF Sister Location](https://turbowarp.org/621016727/fullscreen)
 - [FNAF World](https://turbowarp.org/97900819/fullscreen)
 - [Friday Night Funkin'](https://funkin.puyo.xyz/play/)
-- [Full Screen Mario](https://centoshelp.org/mario/)
 - [Geometry Dash Levels 1-3](https://turbowarp.org/142106986/fullscreen)
 - [Geometry Dash Levels 4-6](https://turbowarp.org/118638917/fullscreen)
 - [Geometry Dash Levels 7-8](https://turbowarp.org/120721851/fullscreen)
