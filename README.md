@@ -53,8 +53,14 @@ ________________________________________________________________________________
 - [Full Screen Mario]()
 - [Full Screen Mario](https://centoshelp.org/mario/)
 - [Full Screen Mario](https://centoshelp.org/mario/)
-- [Full Screen Mario](https://centoshelp.org/mario/)
-- [Full Screen Mario](https://centoshelp.org/mario/)
+- [Geometry Dash Levels 1-3](https://turbowarp.org/142106986/fullscreen)
+- [Geometry Dash Levels 4-6](https://turbowarp.org/118638917/fullscreen)
+- [Geometry Dash Levels 7-8](https://turbowarp.org/120721851/fullscreen)
+- [Geometry Dash Levels 9-13](https://turbowarp.org/140185501/fullscreen)
+- [Getting Over It](https://turbowarp.org/389464290/fullscreen)
+- [NS-Shaft](https://3kh0.github.io/ns-shaft/)
+- [Super Putin Bros.](https://meduza.io/static/putin/index.html)
+- 
 _____________________________________________________________________________________
 
 # Puzzle Games
