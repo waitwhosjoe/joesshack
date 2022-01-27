@@ -1,4 +1,10 @@
-nd may possibly lag on chromebooks)
+# Welcome to Joe's Game Collection
+
+We have lots of fun games and emulators!
+Don't share this website so it won't get blocked as fast.
+Also let us know if u have suggestions or if a game doesn't work.
+
+(Note: Some games are in multiple categories and may possibly lag on chromebooks)
 _____________________________________________________________________________________
 
 # Table of Contents
