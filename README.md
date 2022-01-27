@@ -6,6 +6,7 @@ Also let us know if u have suggestions or if a game doesn't work.
 
 (Note: Some games are in multiple categories and may possibly lag on chromebooks)
 _____________________________________________________________________________________
+Main Categories:
 
 - [All Games](#all-games)
 - [Featured](#featured)
@@ -13,7 +14,7 @@ ________________________________________________________________________________
 - [ROMS](#roms)
 
 ------------------------------
-
+Game Categories:
 
 - [Adventure Games](#action---adventure-games)
 - [Arcade Games](#arcade-games)
@@ -28,14 +29,14 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-# Featured 
+# Featured ⭐
 
 - [Browncha (GBA Emulator)](https://browncha023.github.io/GBA/)
 - [Minecraft Classic](https://3kh0.github.io/minecraft-classic/)
 - [Retro Bowl](https://3kh0.github.io/retro-bowl/)
 _____________________________________________________________________________________
 
-# Action / Adventure Games
+# Action / Adventure Games 
 
 - [Bloons TD](https://turbowarp.org/318213127/fullscreen)
 - [FNAF World](https://turbowarp.org/97900819/fullscreen)
