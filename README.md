@@ -9,10 +9,10 @@ ________________________________________________________________________________
 
 # Table of Contents
 
-- [Info](#welcome-to-joe-s-game-collection)
-- [Table of Contents](#table-of-contents)
 - [All Games](#all-games)
-
+- [Emulators](#emulators)
+- [ROMS](#roms)
+--
 - [Adventure Games](#action---adventure-games)
 - [Arcade Games](#arcade-games)
 - [Idle Games](#idle-games)
@@ -22,10 +22,6 @@ ________________________________________________________________________________
 - [Rhythm Games](#rhythm-games)
 - [Sandbox Games](#sandbox-games)
 - [Survival/Horror Games](#survival-horror-games)
-
-- [Emulators](#emulators)
-- [ROMS](#roms)
-
 _____________________________________________________________________________________
 
 # Action / Adventure Games
