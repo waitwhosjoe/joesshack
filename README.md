@@ -12,7 +12,7 @@ ________________________________________________________________________________
 - [All Games](#all-games)
 - [Emulators](#emulators)
 - [ROMS](#roms)
---
+------------------------------
 - [Adventure Games](#action---adventure-games)
 - [Arcade Games](#arcade-games)
 - [Idle Games](#idle-games)
