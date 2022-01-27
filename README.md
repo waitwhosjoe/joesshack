@@ -40,18 +40,28 @@ ________________________________________________________________________________
 
 # Idle Games
 
+- [Cookie Clicker](https://3kh0.github.io/cookie-clicker/n)
+- [Cookie Clicker Auto Clicker](https://jstrieb.github.io/posts/auto-cookie/)
+- [DogeMiner](https://3kh0.github.io/DogeMiner/)
+- [Idle Breakout](https://3kh0.github.io/idle-breakout/)
+- [RGB Idle](https://ikerstreamer.github.io/RGB-Idle/)
 _____________________________________________________________________________________
 
 # Multiplayer Games
-
+ 
+- [A Leaf on the Wind](http://anism.org/lotw/)
+- [Among Us](https://turbowarp.org/523967150/fullscreen)
+- [Connect 4](https://3kh0.github.io/c4/)
+- [Diep.io](https://turbowarp.org/131270192/fullscreen)
+- [Full Screen Mario](https://centoshelp.org/mario/)
+- [Minecraft Classic](https://3kh0.github.io/minecraft-classic/)
+- [Slither.io](https://turbowarp.org/544213416/fullscreen)
+- [Tic Tac Toe](https://3kh0.github.io/tic-tac-toe/)
 _____________________________________________________________________________________
 
 # Platformer Games
 
 - [Chrome Dinosaur Game](https://wayou.github.io/t-rex-runner/)
-- [Full Screen Mario](https://centoshelp.org/mario/)
-- [Full Screen Mario]()
-- [Full Screen Mario](https://centoshelp.org/mario/)
 - [Full Screen Mario](https://centoshelp.org/mario/)
 - [Geometry Dash Levels 1-3](https://turbowarp.org/142106986/fullscreen)
 - [Geometry Dash Levels 4-6](https://turbowarp.org/118638917/fullscreen)
@@ -60,7 +70,6 @@ ________________________________________________________________________________
 - [Getting Over It](https://turbowarp.org/389464290/fullscreen)
 - [NS-Shaft](https://3kh0.github.io/ns-shaft/)
 - [Super Putin Bros.](https://meduza.io/static/putin/index.html)
-- 
 _____________________________________________________________________________________
 
 # Puzzle Games
@@ -70,8 +79,8 @@ ________________________________________________________________________________
 - [Candy Box 2](https://candybox2.github.io/)
 - [Classic Minesweeper](https://3kh0.github.io/minesweeper/)
 - [Tetris](https://3kh0.github.io/Tetris/)
-- [Tetris](https://3kh0.github.io/Tetris/)
 _____________________________________________________________________________________
+
 # Rhythm Games
 
 - [Arrow Hero](https://acelisweaven.github.io/arrow-hero/)
@@ -84,6 +93,11 @@ ________________________________________________________________________________
 
 # Sandbox Games
 
+- [Minecraft Classic](https://3kh0.github.io/minecraft-classic/)
+- [Paper Minecraft](https://turbowarp.org/538397770/fullscreen)
+- [Sand Game](https://3kh0.github.io/sand-game/)
+- [Terraria Scratch Edition](https://turbowarp.org/322341152/fullscreen)
+- [ThisIsSand](https://turbowarp.org/206806888/fullscreen)
 _____________________________________________________________________________________
 
 # Survival/Horror Games
