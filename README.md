@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-# Featured
+# Featured 
 
 - [Browncha (GBA Emulator)](https://browncha023.github.io/GBA/)
 - [Minecraft Classic](https://3kh0.github.io/minecraft-classic/)
