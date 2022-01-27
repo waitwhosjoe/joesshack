@@ -21,7 +21,7 @@ ________________________________________________________________________________
 - [Puzzle Games](#puzzle-games)
 - [Rhythm Games](#rhythm-games)
 - [Sandbox Games](#sandbox-games)
-- [Survival/Horror Games](#survival-horror-games)
+- [Survival Horror Games](#survival-horror-games)
 _____________________________________________________________________________________
 
 # Action / Adventure Games
@@ -96,7 +96,7 @@ ________________________________________________________________________________
 - [ThisIsSand](https://turbowarp.org/206806888/fullscreen)
 _____________________________________________________________________________________
 
-# Survival/Horror Games
+# Survival Horror Games
 
 - [FNAF 1](https://turbowarp.org/623173822/fullscreen)
 - [FNAF 2](https://turbowarp.org/487683844/fullscreen)
